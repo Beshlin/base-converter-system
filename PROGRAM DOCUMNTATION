@@ -1,0 +1,25 @@
+PROGRAM DOCUMENTATION
+1. Introduction
+The Base Converter Application is a cross-platform Flutter project designed to convert numbers between different numerical bases, specifically Binary (Base 2), Octal (Base 8), Decimal (Base 10), and Hexadecimal (Base 16). It allows users to input a number in one base and instantly view its equivalent representation in another base.
+2. Purpose
+The main objective of this application is to provide an accurate and user-friendly tool for base conversion. It supports both Android and desktop operating systems, enabling smooth usability across platforms.
+3. System Requirements
+• Flutter SDK 3.0 or later
+• Android Studio or Visual Studio Code
+• Android OS 8.0 or higher
+• Windows/macOS/Linux desktop environment
+4. Features
+1. Converts numbers between Binary, Octal, Decimal, and Hexadecimal.
+2. Handles both positive and negative integers.
+3. Provides error handling for invalid characters or input.
+4. Clean, user-friendly interface with dropdown base selectors.
+5. Real-time conversion and responsive UI.
+5. Tools and Technologies Used
+• Programming Language: Dart
+• Framework: Flutter
+• UI Design: Material Design 3
+• Deployment Platforms: Android OS and Desktop OS
+6. Deployment
+The Base Converter was successfully deployed on Android and desktop operating systems. The deployment process involved using Flutter’s build system to generate APK files for Android and executable builds for desktop.
+7. Conclusion
+The Base Converter Application effectively demonstrates the power of Flutter for creating cross-platform applications. Its simplicity, reliability, and robust conversion logic make it an efficient educational and utility tool.
