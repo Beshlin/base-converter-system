@@ -1,0 +1,17 @@
+PROCESS DOCUMENTATION
+1. Project Overview
+This project was developed as a group assignment by five members. The main goal was to design and develop a base converter capable of converting numbers across binary, octal, decimal, and hexadecimal bases.
+2. Group Members and Roles
+CALEB - Project Manager: Coordinated the project timeline, handled version control, and led deployment activities.
+COLLINS - Lead Developer: Implemented the core conversion logic in Dart and managed backend functionality.
+MURIKI - UI/UX Designer: Designed the user interface using Flutter widgets and ensured a responsive layout.
+CYNTHIA - Quality Assurance (QA): Tested the app on different platforms (Android and Windows) and handled bug reporting.
+VICTOR - Documentation & Support: Prepared all documentation, reports, and assisted with user guide preparation.
+3. Development Process
+The development followed an agile process, consisting of planning, design, implementation, testing, and deployment phases. Each member contributed to discussions, feature testing, and documentation refinement.
+4. Testing and Validation
+The application was tested for both valid and invalid inputs, ensuring accurate base conversion and consistent performance. All modules passed validation tests on Android and Windows systems.
+5. Deployment Summary
+The final build was deployed successfully on Android OS and Windows Desktop. APK generation was done via Flutter’s build tools using the command 'flutter build apk', while the desktop build used 'flutter build windows' for native executable output.
+6. Conclusion
+The project achieved its objectives successfully through collaboration, teamwork, and technical skills. It serves as a strong demonstration of Flutter’s multi-platform capabilities and efficient Dart programming.
